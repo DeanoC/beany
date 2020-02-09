@@ -14,6 +14,5 @@ fn main() {
     // calling the function from foo library
     unsafe {
         testcall(3.14159);
-        testcall2(1.5);
     };
 }

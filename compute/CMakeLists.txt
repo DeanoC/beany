@@ -14,4 +14,4 @@ INIT_AL2O3(${CMAKE_CURRENT_SOURCE_DIR})
 project(compute C CXX CUDA)
 
 add_subdirectory(compute_cuda)
-add_subdirectory(compute_sycl)
+#add_subdirectory(compute_sycl)
