@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Computer/Documents/Code/beany/cuda_compute/cmake-build-debug/_deps/al2o3_platform-subbuild/CMakeFiles/al2o3_platform-populate"
+		},
+		{
+			"file" : "C:/Users/Computer/Documents/Code/beany/cuda_compute/cmake-build-debug/_deps/al2o3_platform-subbuild/CMakeFiles/al2o3_platform-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Computer/Documents/Code/beany/cuda_compute/cmake-build-debug/_deps/al2o3_platform-subbuild/CMakeFiles/al2o3_platform-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Computer/Documents/Code/beany/cuda_compute/cmake-build-debug/_deps/al2o3_platform-subbuild/al2o3_platform-populate-prefix/src/al2o3_platform-populate-stamp/al2o3_platform-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Computer/Documents/Code/beany/cuda_compute/cmake-build-debug/_deps/al2o3_platform-subbuild/al2o3_platform-populate-prefix/src/al2o3_platform-populate-stamp/al2o3_platform-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Computer/Documents/Code/beany/cuda_compute/cmake-build-debug/_deps/al2o3_platform-subbuild/al2o3_platform-populate-prefix/src/al2o3_platform-populate-stamp/al2o3_platform-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Computer/Documents/Code/beany/cuda_compute/cmake-build-debug/_deps/al2o3_platform-subbuild/al2o3_platform-populate-prefix/src/al2o3_platform-populate-stamp/al2o3_platform-populate-update.rule"
+		},
+		{
+			"file" : "C:/Users/Computer/Documents/Code/beany/cuda_compute/cmake-build-debug/_deps/al2o3_platform-subbuild/al2o3_platform-populate-prefix/src/al2o3_platform-populate-stamp/al2o3_platform-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Computer/Documents/Code/beany/cuda_compute/cmake-build-debug/_deps/al2o3_platform-subbuild/al2o3_platform-populate-prefix/src/al2o3_platform-populate-stamp/al2o3_platform-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Computer/Documents/Code/beany/cuda_compute/cmake-build-debug/_deps/al2o3_platform-subbuild/al2o3_platform-populate-prefix/src/al2o3_platform-populate-stamp/al2o3_platform-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Computer/Documents/Code/beany/cuda_compute/cmake-build-debug/_deps/al2o3_platform-subbuild/al2o3_platform-populate-prefix/src/al2o3_platform-populate-stamp/al2o3_platform-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"al2o3_platform-populate"
+		],
+		"name" : "al2o3_platform-populate"
+	}
+}

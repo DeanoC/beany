@@ -1,0 +1,10 @@
+^C:\USERS\COMPUTER\DOCUMENTS\CODE\BEANY\CUDA_COMPUTE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Computer/Documents/Code/beany/cuda_compute -BC:/Users/Computer/Documents/Code/beany/cuda_compute/tmp --check-stamp-file C:/Users/Computer/Documents/Code/beany/cuda_compute/tmp/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
