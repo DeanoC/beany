@@ -1,8 +1,12 @@
-#[link(name="cuda_compute", kind="static")]
+#[link(name="compute_cuda", kind="static")]
 extern {
-    // this is rustified prototype of the function from our C library
     fn testcall(v: f32);
 }
+
+/*#[link(name="compute_sycl", kind="static")]
+extern {
+    fn testcall2(v: f32);
+}*/
 
 fn main() {
     println!("Hello, world!");
@@ -10,5 +14,6 @@ fn main() {
     // calling the function from foo library
     unsafe {
         testcall(3.14159);
+        testcall2(1.5);
     };
 }
