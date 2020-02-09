@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="wMAHLcJH" />
+  </component>
+  <component name="ProjectId" id="1XZOr4ZNdEPUsgs45weZS9QhTC9" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="language.rust" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="777" y="368" key="Github.ShareDialog" timestamp="1581250383957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="368" key="Github.ShareDialog/3840.1059.1536.800/3840.2139.2048.1112/0.0.1920.1040@0.0.1920.1040" timestamp="1581250383957" />
+    <state x="663" y="72" key="Github.UntrackedFilesDialog" timestamp="1581250404396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="663" y="72" key="Github.UntrackedFilesDialog/3840.1059.1536.800/3840.2139.2048.1112/0.0.1920.1040@0.0.1920.1040" timestamp="1581250404396" />
+  </component>
+</project>

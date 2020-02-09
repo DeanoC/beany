@@ -1,3 +1,0 @@
-repository='https://github.com/Deanoc/al2o3_platform'
-module=''
-tag='origin'
